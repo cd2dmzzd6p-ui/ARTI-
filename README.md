@@ -9,3 +9,12 @@ Tout conserver. Tout retrouver. Ne rien mélanger.
 📥 Importer dans Originaux
 Photos, vidéos, documents, audios et fichiers.
 
+ ARTI ARCHIVES
+Tout conserver. Tout retrouver. Ne rien mélanger.
+📥 Originaux
+🛠️ Travail
+🗑️ Corbeille
+💾 Sauvegarde
+📥 Importer dans Originaux
+Photos, vidéos, documents, audios et fichiers.
+
